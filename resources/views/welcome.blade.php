@@ -373,7 +373,7 @@
                                 coding. Build your next job website.</p>
                         </div>
                         <!-- Search Component starts -->
-                        <div class="search-box bg-green shadow-7 rounded-10 px-8 pt-7 pb-7 mr-lg-n34 mr-xl-n33">
+                        {{-- <div class="search-box bg-green shadow-7 rounded-10 px-8 pt-7 pb-7 mr-lg-n34 mr-xl-n33">
                             <form action="/" class="search-form">
                                 <div class="row mx-n5 justify-content-center">
                                     <div class="w-100 w-sm-50 w-md-100 w-lg-35 w-xl-37 px-3 mb-7 mb-lg-0">
@@ -402,7 +402,7 @@
                                     </div>
                                 </div>
                             </form>
-                        </div>
+                        </div> --}}
                         <!-- Search Component ends -->
                         <p class="gr-text-11 mb-0 mt-6">Try Product Designer, Software Engineer etc.</p>
                     </div>
